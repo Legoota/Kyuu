@@ -1,0 +1,9 @@
+[submodule "PCB ISO/MX_Alps_Hybrid"]
+	path = PCB ISO/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid
+[submodule "PCB ISO/Type-C.pretty"]
+	path = PCB ISO/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty
+[submodule "PCB ISO/random-keyboard-parts.pretty"]
+	path = PCB ISO/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
